@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jaikishpai
-- 👀 I’m interested in Data Science. 
-- 🌱 I’m currently learning Data Science. 
-- 💞️ I’m looking to collaborate on Data Science.
+- ⭐ Working as Product Owner and Senior Test Engineer at Canon Medical Informatics
+- 💢 I’m interested in Data Science. 
+- ✨ I’m currently pursuing Masters in Data Science. 
+- 👍 I’m looking to collaborate on Data Science.
 
 <!---
 jaikishpai/jaikishpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
