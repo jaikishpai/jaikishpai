@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaikishpai
-- ⭐ Working as Product Owner and Senior Test Engineer at Canon Medical Informatics
+- ⭐ Working as Quality Assurance Engineer at GRESB B.V
 - 💢 I’m interested in Data Science. 
 - ✨ I’m currently pursuing Masters in Data Science. 
 - 👍 I’m looking to collaborate on Data Science.
