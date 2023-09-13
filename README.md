@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaikishpai
-- ⭐ Working as Test Specialist
+- ⭐ Working as Test Specialist at Tesla
 - 💢 I’m interested in Data Science. 
 - ✨ I’m currently pursuing Masters in Data Science. 
 - 👍 I’m looking to collaborate on Data Science.
